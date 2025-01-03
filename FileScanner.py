@@ -25,8 +25,8 @@ menu = YELLOW + r""" ___________________________________________________________
 |                               by K4L4SHNIK0V                              |
 |___________________________________________________________________________|
 |                                                                           |
-|            Make sure the file you want to scan and this scanner           |
-|                          are in the same folder                           |
+|           Make sure the file you want to scan and this scanner            |
+|               are in the same folder or enter the full path               |
 |___________________________________________________________________________|
 """
 
