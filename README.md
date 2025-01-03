@@ -18,3 +18,5 @@
 ## Extension list
 ![image](https://github.com/user-attachments/assets/8b6b4799-b7fd-4bac-9f15-093cffecadf8)
 
+## Scan results
+![image](https://github.com/user-attachments/assets/b1c991f9-9029-4013-afa0-ae822b049f3b)
