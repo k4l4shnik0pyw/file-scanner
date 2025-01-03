@@ -37,7 +37,7 @@ while True:
     clear.clear()
 
     print(menu)
-    file_name = input(RED + "  File name (enter ! to leave the scanner) >>> ")
+    file_name = input(RED + "  File name without extension (enter ! to leave the scanner) >>> ")
     print(file_name)
 
     if file_name == "!":
